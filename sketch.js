@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
   // put drawing code here
-  background(150, 0, 150)
+  background(0, 0, 150)
   fill(0, 250, 0)
   ellipse(mouseX, mouseY, 400, 400)
 }
